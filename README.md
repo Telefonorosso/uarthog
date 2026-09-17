@@ -1,4 +1,4 @@
-# Emu68 USB Logging Console
+# Emu68 USB Logging Console - AI CODED
 
 **A persistent USB debug console for Emu68 — early boot logs, runtime status, live debug control, crash dumps and reboot from a standard serial terminal.**
 
